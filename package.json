@@ -1,0 +1,29 @@
+{
+  "name": "solo-node",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.1.1",
+    "npm": "2.1.x"
+  },
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckroening/19_prime_solo_nd.git"
+  },
+  "author": "Charlotte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckroening/19_prime_solo_nd/issues"
+  },
+  "homepage": "https://github.com/ckroening/19_prime_solo_nd#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4"
+  }
+}
